@@ -2,6 +2,13 @@ package com.jiwei.system.pojo;
 
 import java.io.Serializable;
 
+/**
+ * @title: CookieUtil
+ * @Author 赖志宇
+ * @Description TODO 缺少注解验证
+ * @Date: 2020/8/14
+ * @Version 1.0
+ */
 public class Task implements Serializable {
     private String id;
     private String name;
